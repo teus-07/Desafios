@@ -80,7 +80,8 @@ table, tr ,td{
     border: solid 1px hsl(332, 51%, 32%);;
     border-collapse:collapse;
     margin-top: 1rem;
-    width: 400px;
+    max-width: 400px;
+    width: 100%;
     text-align: center;
     
 }
